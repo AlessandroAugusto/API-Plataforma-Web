@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DpJ8wQxlOXJ3xs9j0iztFhzK50wBofgLMgP1p7EHebDz5Hf7QDUoRLhBr/oynwhENH7rZQ9x/P1NG+41XK1uIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\API-Plataforma_Web\\src\\API-Plataforma_Web.Service\\API-Plataforma_Web.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.pereira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\alessandro.pereira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alessandro.pereira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
